@@ -1,0 +1,5 @@
+print(type(123))
+# print(type('str'))
+# print(type(None))
+# print(type(abs))
+# print(type(test))
