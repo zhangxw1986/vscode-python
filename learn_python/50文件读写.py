@@ -19,3 +19,7 @@ __author__ = 'zhangxw1986'
 with open('/Volumes/public/vscode-python/test.py','r') as f1:
   print(f1.read())
 
+
+with open('/Volumes/public/vscode-python/file_test1.py','w') as f2:
+  f2.write('Hello,world!')
+
