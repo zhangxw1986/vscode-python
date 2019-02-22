@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.unitTest.pyTestArgs": [
         "learn_python"
@@ -7,5 +7,6 @@
     "python.unitTest.unittestEnabled": false,
     "python.unitTest.nosetestsEnabled": false,
     "python.unitTest.pyTestEnabled": false,
-    "python.unitTest.promptToConfigure": false
+    "python.unitTest.promptToConfigure": false,
+    "python.linting.enabled": false
 }

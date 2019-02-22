@@ -1,5 +1,5 @@
-pid = os.fork()
-# if pid==0:
-#   print('I am child process (%s) and my parent is (%s)' % (os.getpid(),os.getppid()))
-# else:
-#   print('I  (%s) just created a child process (%s).' % (os.getpid(),pid))
+    # print('thread %s is running ...' % threading.current_thread().name)
+    # t = threading.Thread(target=loop,name='LoopThread')
+    # t.start()
+    # t.join()
+    # print('threading %s ended.' % threading.current_thread().name)
