@@ -1,5 +1,1 @@
-    # print('thread %s is running ...' % threading.current_thread().name)
-    # t = threading.Thread(target=loop,name='LoopThread')
-    # t.start()
-    # t.join()
-    # print('threading %s ended.' % threading.current_thread().name)
+cursor.execute('create table user (id varchar(20) primary key,name varchar(20))')
