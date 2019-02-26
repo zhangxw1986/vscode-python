@@ -1,3 +1,5 @@
+#python代码格式：缩进
+
 #print the absolute value of an interger:
 
 a = 100
